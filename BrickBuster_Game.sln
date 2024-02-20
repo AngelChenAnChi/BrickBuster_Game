@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickBuster_Game", "BrickBuster_Game\BrickBuster_Game.csproj", "{15C96504-B78E-4E7D-9C5E-F43C1C3BE62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C96504-B78E-4E7D-9C5E-F43C1C3BE62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C96504-B78E-4E7D-9C5E-F43C1C3BE62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C96504-B78E-4E7D-9C5E-F43C1C3BE62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C96504-B78E-4E7D-9C5E-F43C1C3BE62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25F9E70D-179A-4D4B-A843-61772880385A}
+	EndGlobalSection
+EndGlobal
