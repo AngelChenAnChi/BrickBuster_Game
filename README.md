@@ -3,7 +3,10 @@
 # Demo
 ##
 
-https://github.com/AngelChenAnChi/BrickBuster_Game/assets/134198220/7e07c98b-8d41-4688-817d-9eaeb169ff85
+https://github.com/AngelChenAnChi/BrickBuster_Game/assets/134198220/afe1bf1f-ba81-4494-876c-f706152d467e
+
+
+
 
 
 
